@@ -1,7 +1,13 @@
 html {
   text-align: center;
   font-family: Helvetica;
+  color: White;
 
+}
+
+a {
+  color: White;
+  font-size: 18px;
 }
 
 h2 {
@@ -11,7 +17,7 @@ h2 {
 
 p {
   font-size: 14px;
-  
+
 }
 
 .head-img-top {
@@ -19,8 +25,11 @@ p {
   /*background-size: contain;*/
   background-repeat: no-repeat;
   background-size: cover;
-  color: White;
 
+}
+
+.main-text {
+  color: Black;
 
 }
 
@@ -30,7 +39,7 @@ p {
 
 }
 
-.head-img-top a {
-  font-size: 18px;
-  color: White;
+.bottom-info {
+  font-size: 11px;
+  background-color: dimgray;
 }
