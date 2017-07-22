@@ -1,13 +1,14 @@
 html {
   text-align: center;
   font-family: Helvetica;
-  background-color: black;
+  background-color: Black;
 }
 
 .head-img-top {
   background-image: url("../images/the-flatiron-building.png");
   /*background-size: contain;*/
   background-repeat: no-repeat;
+  background-size: cover;
   color: White;
 
 
