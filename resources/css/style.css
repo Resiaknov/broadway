@@ -3,7 +3,7 @@ html {
   font-family: Helvetica;
 }
 
-.head-img-top {
+.head-img-top div {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
   color: White;
@@ -17,7 +17,7 @@ html {
 
 }
 
-.head-img-top a{
+.head-img-top a {
   font-size: 18px;
-  
+
 }
