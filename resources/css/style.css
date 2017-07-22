@@ -42,4 +42,5 @@ p {
 .bottom-info {
   font-size: 11px;
   background-color: dimgray;
+  text-align: left;
 }
